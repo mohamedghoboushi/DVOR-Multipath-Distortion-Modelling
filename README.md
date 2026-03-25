@@ -39,12 +39,19 @@ Why This Work Matters?
  
 •	figures
 	DVOR_Multipath_Propagation_Geometry.png
+
 	Comparison_between_Flight_Inspection_Data_and_Proposed_Model.png
+
 	Comparison_between_DVOR_bearing_error_of_the_measured_and_the_fitted_first_ of_the_measured_and_the_fitted_first_order_harmonic_model.png
+
 	Estimated_Reflector_Direction_from_Flight_Inspection_Data.png
+
 	Effect_of_Reflection_Amplitude_on_Bearing_Error.png
+
 	PredictedDVOR_Bearing_Distortion_Map.png
+
 	DVOR_Bearing_Distortion_Map_Around_the_Station.png
+
  
 •	README
 
