@@ -24,14 +24,23 @@ Why This Work Matters?
 5)	Reflector estimation via harmonic analysis
 
 	Repository Structure
+
 •	Code:
+
 	DVOR_Multipath_Propagation_Geometry.m
+
 	Comparison_between_Flight_Inspection_Data_and_Proposed_Model.m
+
 	Comparison_between_DVOR_bearing_error_of_the_measured_and_the_fitted_first_of_the_measured_and_the_fitted_first_order_harmonic_model.m
+
 	Estimated_Reflector_Direction_from_Flight_Inspection_Data.m
+
 	Effect_of_Reflection_Amplitude_on_Bearing_Error.m
+
 	PredictedDVOR_Bearing_Distortion_Map.m
+
 	DVOR_Bearing_Distortion_Map_Around_the_Station.m
+
  
 •	data
                flight_inspection_data
