@@ -4,7 +4,7 @@ close all
 
 %% Parameters
 
-fc = 113e6;               
+fc = 113.2e6;               
 c = 3e8;                  
 lambda = c/fc;            
 
