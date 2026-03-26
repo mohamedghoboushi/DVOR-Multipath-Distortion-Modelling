@@ -31,23 +31,24 @@ Why This Work Matters?
 5)	Reflector estimation via harmonic analysis
 
 	
-	Repository Structure
+	Repository Structure:
+
 
 •	Code:
 
-	DVOR_Multipath_Propagation_Geometry.m
+1)	DVOR_Multipath_Propagation_Geometry.m
 
-	Comparison_between_Flight_Inspection_Data_and_Proposed_Model.m
+2)	Comparison_between_Flight_Inspection_Data_and_Proposed_Model.m
 
-	Comparison_between_DVOR_bearing_error_of_the_measured_and_the_fitted_first_of_the_measured_and_the_fitted_first_order_harmonic_model.m
+3)	Comparison_between_DVOR_bearing_error_of_the_measured_and_the_fitted_first_of_the_measured_and_the_fitted_first_order_harmonic_model.m
 
-	Estimated_Reflector_Direction_from_Flight_Inspection_Data.m
+4)	Estimated_Reflector_Direction_from_Flight_Inspection_Data.m
 
-	Effect_of_Reflection_Amplitude_on_Bearing_Error.m
+5)	Effect_of_Reflection_Amplitude_on_Bearing_Error.m
 
-	PredictedDVOR_Bearing_Distortion_Map.m
+6)	PredictedDVOR_Bearing_Distortion_Map.m
 
-	DVOR_Bearing_Distortion_Map_Around_the_Station.m
+7)	DVOR_Bearing_Distortion_Map_Around_the_Station.m
 
  
 •	data
@@ -56,19 +57,19 @@ Why This Work Matters?
  
 •	figures
 
-	DVOR_Multipath_Propagation_Geometry.png
+ 	1) DVOR_Multipath_Propagation_Geometry.png
 
-	Comparison_between_Flight_Inspection_Data_and_Proposed_Model.png
+ 	2) Comparison_between_Flight_Inspection_Data_and_Proposed_Model.png
 
-	Comparison_between_DVOR_bearing_error_of_the_measured_and_the_fitted_first_ of_the_measured_and_the_fitted_first_order_harmonic_model.png
+ 	3) Comparison_between_DVOR_bearing_error_of_the_measured_and_the_fitted_first_ of_the_measured_and_the_fitted_first_order_harmonic_model.png
 
-	Estimated_Reflector_Direction_from_Flight_Inspection_Data.png
+ 	4) Estimated_Reflector_Direction_from_Flight_Inspection_Data.png
 
-	Effect_of_Reflection_Amplitude_on_Bearing_Error.png
+ 	5) Effect_of_Reflection_Amplitude_on_Bearing_Error.png
 
-	PredictedDVOR_Bearing_Distortion_Map.png
+ 	6) PredictedDVOR_Bearing_Distortion_Map.png
 
-	DVOR_Bearing_Distortion_Map_Around_the_Station.png
+ 	7) DVOR_Bearing_Distortion_Map_Around_the_Station.png
 
  
 •	README
@@ -135,12 +136,23 @@ Authors
 
 Mohamed El-Ghoboushi
 
+He is a Lecturer at the Science Valley Higher Institute for Engineering and Technology
+
 PhD in Electrical Communications Engineering, and an Air Navigation Systems Specialist
+
+Mohamed S. Fouad
+
+He is a Lecturer at the Higher Institute of Electronic Engineering in Belbeis, Egypt
+
+PhD in Electrical Communications Engineering
+
 
 Contact
 
    mohammed.ghaboushy@sva.edu.eg
-
+   
+	mohameds.fouad4@gmail.com
+	
 Support
 
   If you find this work useful, consider giving the repository a star *
