@@ -1,5 +1,5 @@
-	Associated Paper
-                “Predictive Modeling of Multipath-Induced Bearing Errors in DVOR Navigation Systems with Environmental Distortion Mapping”
+Associated Paper
+                “Analytical Modeling and Flight Inspection Validation of Multipath-Induced Bearing Errors in DVOR Navigation Systems”
   Submitted to IEEE Transactions on Aerospace and Electronic Systems
 
 Overview
